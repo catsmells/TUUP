@@ -54,10 +54,10 @@ A common four-node network may look like this:
 
 | FLANDRE | CIRNO | ALICE |
 | ------- | ----- | ----- |
-| A<sub>0</sub> B<sub>0</sub> C<sub>0</sub> D<sub>0</sub> | D<sub>0</sub> A<sub>0</sub> B<sub>0</sub> C<sub>0</sub> | C<sub>2</sub> D<sub>2</sub> A<sub>2</sub> B<sub>2</sub> | 
-| B<sub>1</sub> C<sub>1</sub> D<sub>1</sub> A<sub>1</sub> | C<sub>1</sub> D<sub>1</sub> A<sub>1</sub> B<sub>1</sub> | B<sub>2</sub> C<sub>2</sub> D<sub>2</sub> A<sub>2</sub> |
+| A<sub>0</sub> B<sub>0</sub> C<sub>0</sub> D<sub>0</sub> | D<sub>0</sub> A<sub>0</sub> B<sub>0</sub> C<sub>0</sub> | C<sub>0</sub> D<sub>0</sub> A<sub>0</sub> B<sub>0</sub> | 
+| B<sub>1</sub> C<sub>1</sub> D<sub>1</sub> A<sub>1</sub> | C<sub>1</sub> D<sub>1</sub> A<sub>1</sub> B<sub>1</sub> | B<sub>1</sub> C<sub>1</sub> D<sub>1</sub> A<sub>1</sub> |
 | C<sub>2</sub> D<sub>2</sub> A<sub>2</sub> B<sub>2</sub> | B<sub>2</sub> C<sub>2</sub> D<sub>2</sub> A<sub>2</sub> | A<sub>2</sub> B<sub>2</sub> C<sub>2</sub> D<sub>2</sub> |
-| D<sub>3</sub> A<sub>3</sub> B<sub>3</sub> C<sub>3</sub> | A<sub>2</sub> B<sub>2</sub> C<sub>2</sub> D<sub>2</sub> | D<sub>2</sub> A<sub>2</sub> B<sub>2</sub> C<sub>2</sub> |
+| D<sub>3</sub> A<sub>3</sub> B<sub>3</sub> C<sub>3</sub> | A<sub>3</sub> B<sub>3</sub> C<sub>3</sub> D<sub>3</sub> | D<sub>3</sub> A<sub>3</sub> B<sub>3</sub> C<sub>3</sub> |
 
 To represent the stripes, we use our common formatting scheme:
 
