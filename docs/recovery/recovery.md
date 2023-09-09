@@ -12,7 +12,7 @@ We should first clarify the layers of TUUP.
 - Layer 2: The Network.
 - Layer 3: The Application.
 
-When discussing recovery, we're discussing the retrieval of data from a network running via TUUP. TUUP allows for data to be redundantly distributed amonst nodes running on-chain. Under the current version, the following should be noted:
+When discussing recovery, we're discussing the retrieval of data from a network running via TUUP. TUUP allows for data to be redundantly distributed amongst nodes running on-chain. Under the current version, the following should be noted:
 
 - Data is striped over multiple nodes.
 - A section of the block stripe is called a "_chunk_".
