@@ -75,7 +75,9 @@ To identify a range of stripes, we would do the following:
 
 In a recovery method, one would first identify chunks by their common shifted value per the number of users within a network. They would then determine an eigenseed range, then - in order from λ<sub>(2)</sub> of all known nodes - list
 known eigenseeds of the range. From there, you begin the reverse shift - K<sub>-Δ</sub>. The reverse shift from the automatic known node range will automatically give the user the stripes, and they will automatically know the sizes of
-the bytes, as well as the final output - in binary.
+the bytes, as well as the final output - in binary. One can then convert it to ASCII, if applicable.
+
+`DR. CAT`
 
 ## Things Left To-Do
 
