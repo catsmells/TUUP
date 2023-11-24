@@ -25,7 +25,7 @@ Congrats for looking into TUUP for whatever reason - contributing, using, or may
         /          \
        /            \
       /              \
-  Privacy ------ Efficiency
+  Privacy ------- Function
 ```
 
 ## Code Contribution
